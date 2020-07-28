@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("LTEReboot2")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Reboot script for O² LTE router")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LTEReboot2")]
+[assembly: AssemblyCompany("sidata.com")]
+[assembly: AssemblyProduct("LTEReboot")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
