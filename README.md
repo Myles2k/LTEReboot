@@ -11,6 +11,6 @@ This is a Script that reboots your O² HomeSpot LTE Router once it has lost conn
   <li> If everything was done correctly you should be done and your O² LTE Router should be rebooting (if it is unable to connect to the ProbeIP) </li>
 </ul>
 
-<h2>Tipp:</h2> 
+<h2>A little side note:</h2> 
 You can use the Windows Task Planner to check for a connection serveral times throughout the day.
 
