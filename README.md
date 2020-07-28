@@ -12,5 +12,5 @@ This is a Script that reboots your O² HomeSpot LTE Router once it has lost conn
 </ul>
 
 <h2>A little side note:</h2> 
-You can use the Windows Task Planner to check for a connection serveral times throughout the day.
+You can use the Windows Task Planner to check for a connection and run <b>LTEReboot</b> serveral times throughout the day.
 
