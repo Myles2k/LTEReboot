@@ -2,7 +2,7 @@
 This is a Script that reboots your O² HomeSpot LTE Router once it has lost connection. It seems to have a problem with connecting back once there has been an interruption, this should fix the problem by checking for a connection and rebooting the HomeSpot if so.
 
 
-<div style="background-color: #4f4f4f; color: #ffffff">
+<div style="background-color: black; color: #ffffff">
 <h1> How To Use </h1>
 <ul>
   <li> Open CMD </li>
