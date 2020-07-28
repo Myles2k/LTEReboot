@@ -2,7 +2,7 @@
 This is a Script that reboots your O² HomeSpot LTE Router once it has lost connection. It seems to have a problem with connecting back once there has been an interruption, this should fix the problem by checking for a connection and rebooting the HomeSpot if so.
 
 
-<div>
+
 <h1> How To Use </h1>
 <ul>
   <li> Open CMD </li>
@@ -10,4 +10,7 @@ This is a Script that reboots your O² HomeSpot LTE Router once it has lost conn
   <li> Once youre in the directory type: <em>LTEReboot [YourRouterControlPanelURL] [YourRouterControlPanelPassword] [ProbeIP]</em> without the "[" and "]" (ProbeIP is used to check if youre able to connect to that IP and therefore the internet. I use 8.8.8.8 which is Googles DNS Server and good for measurements like this) </li> 
   <li> If everything was done correctly you should be done and your O² LTE Router should be rebooting (if it is unable to connect to the ProbeIP) </li>
 </ul>
-</div>
+
+<h2>Tipp:</h2> 
+You can use the Windows Task Planner to check for a connection serveral times throughout the day.
+
