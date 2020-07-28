@@ -3,3 +3,4 @@ This is a Script that reboots your O² HomeSpot LTE Router once it has lost conn
 
 
 <hr>
+<h1> How To Use </h1>
